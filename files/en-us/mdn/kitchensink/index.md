@@ -414,4 +414,4 @@ The [`AvailableInWorkers`](https://github.com/mdn/yari/blob/main/kumascript/macr
 
 {{Non-standard_Header}}
 {{Deprecated_Header}}
-[![Iceberg pic](iceberg.jpg)](iceberg.jpg)
+[![3 dangos](https://upload.wikimedia.org/wikipedia/commons/2/2b/Hanami_Dango.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/2b/Hanami_Dango.jpg)
