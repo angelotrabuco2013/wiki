@@ -34,7 +34,7 @@ yarn
 yarn start
 ```
 
-Once started, a live preview is available at `http://localhost:5042/`.
+Once started, a live preview is available at `https://codespacename-codespaceid.app.github.dev`.
 
 ## Contribute to MDN Web Docs
 
