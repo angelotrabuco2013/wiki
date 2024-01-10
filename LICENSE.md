@@ -1,6 +1,6 @@
-# Licenses for MDN content
+# Licenses for AST Wiki's content
 
-MDN's content (including prose and code examples) is entirely available
+AST Wiki's content (including prose and code examples) is entirely available
 under various open source licenses. This file covers the types of
 content we provide and what licenses are in effect for each.
 
