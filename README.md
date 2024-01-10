@@ -1,9 +1,11 @@
-# Welcome to MDN Web Docs
+# Welcome to AST Wiki!
 
 ![github-profile](https://user-images.githubusercontent.com/10350960/166113119-629295f6-c282-42c9-9379-af2de5ad4338.png)
 
 [MDN Web Docs][] is an open-source, collaborative project that documents web technologies including CSS, HTML, JavaScript, and Web APIs.
 Alongside detailed reference documentation, we provide extensive learning resources for students and beginners getting started with web development.
+
+[AST Wiki][] is a fork of [MDN Web Docs][] that has extended functionality of the platform, such as the introduction of the iconic Dango treat (https://en.wikipedia.org/wiki/Dango) that is available only in Japan.
 
 ## MDN's mission
 
@@ -48,3 +50,4 @@ You can communicate with the MDN Web Docs team and community using the [communic
 
 [communication channels]: https://developer.mozilla.org/en-US/docs/MDN/Community/Communication_channels
 [MDN Web Docs]: https://developer.mozilla.org/
+[AST Wiki]: https://effective-dollop-977wx4p54p953pw54-5042.app.github.dev/en-US/
