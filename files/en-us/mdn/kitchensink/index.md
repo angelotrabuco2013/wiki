@@ -156,7 +156,7 @@ echo("Hello world!");
 
 ### R
 
-> **Warning:** R syntax highlighting is currently broken, as it is not implemented yet for this platform.
+> **Warning:** R syntax highlighting is currently broken, as it is not yet implemented for this platform.
 
 ```r
 print("Hello from R!", quote=FALSE)
