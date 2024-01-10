@@ -51,3 +51,7 @@ You can communicate with the MDN Web Docs team and community using the [communic
 [communication channels]: https://developer.mozilla.org/en-US/docs/MDN/Community/Communication_channels
 [MDN Web Docs]: https://developer.mozilla.org/
 [AST Wiki]: https://effective-dollop-977wx4p54p953pw54-5042.app.github.dev/en-US/
+
+## Markdown lint fixing
+
+Investigating and fixing issues like this may be difficult.
