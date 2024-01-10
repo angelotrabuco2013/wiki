@@ -55,7 +55,15 @@ Text that uses the `<kbd>` tag: <kbd>Shift</kbd>
 ### HTML
 
 ```html
-<pre></pre>
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <h1>Hello world!</h1>
+  </body>
+</html>
 ```
 
 ### JavaScript
