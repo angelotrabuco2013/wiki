@@ -437,3 +437,9 @@ The [`AvailableInWorkers`](https://github.com/mdn/yari/blob/main/kumascript/macr
 - Number 1
 - Number 2
 - Number 3
+
+## HTML number lists
+
+1. Number 1
+2. Number 2
+3. Number 3
