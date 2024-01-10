@@ -3,7 +3,7 @@
 [MDN Web Docs][] is an open-source, collaborative project that documents web technologies including CSS, HTML, JavaScript, and Web APIs.
 Alongside detailed reference documentation, we provide extensive learning resources for students and beginners getting started with web development.
 
-[AST Wiki][] is a fork of [MDN Web Docs][] that has extended functionality of the platform, such as the introduction of the iconic Dango treat (https://en.wikipedia.org/wiki/Dango) that is available only in Japan, expansion of the kitchensink, etc. It started development in January 10th, 2024.
+[AST Wiki][] is a fork of [MDN Web Docs][] that has extended functionality of the original platform, such as the introduction of the iconic Dango treat (https://en.wikipedia.org/wiki/Dango) that is available only in Japan, expansion of the kitchensink, etc. It started development in January 10th, 2024.
 
 ## MDN's mission
 
@@ -17,8 +17,10 @@ In addition to English-language articles, over 35 volunteers lead translation an
 
 ## Build the site
 
+You can easily build the site using the terminal in the GitHub Codespaces editor.
+
 To set up the site locally, you need to have [Node.js](https://nodejs.org/) and [Yarn](https://yarnpkg.com/) installed.
-You can check if these are installed by running the following commands:
+On the cloud-powered Linux terminal, check if these are installed by running the following commands:
 
 ```bash
 node -v

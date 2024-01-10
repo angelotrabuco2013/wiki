@@ -154,6 +154,12 @@ echo("Hello world!");
 ?>
 ```
 
+### R
+
+```r
+print("Hello from R!", quote=FALSE)
+```
+
 ### Formal syntax
 
 _The formal syntax must be taken from the spec and added to the [MDN data repository](https://github.com/mdn/data). It is an important tool to get precise syntax information for advanced users._
