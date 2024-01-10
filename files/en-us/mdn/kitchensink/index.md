@@ -431,3 +431,9 @@ The [`AvailableInWorkers`](https://github.com/mdn/yari/blob/main/kumascript/macr
 {{Non-standard_Header}}
 {{Deprecated_Header}}
 [![2 dangos](https://upload.wikimedia.org/wikipedia/commons/2/2b/Hanami_Dango.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/2b/Hanami_Dango.jpg)
+
+## HTML bullet lists
+
+- Number 1
+- Number 2
+- Number 3
