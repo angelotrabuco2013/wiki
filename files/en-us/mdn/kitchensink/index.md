@@ -146,6 +146,14 @@ class BookListView(generic.ListView):
     template_name = 'books/my_arbitrary_template_name_list.html'
 ```
 
+### PHP
+
+```php
+<?php
+echo("Hello world!");
+?>
+```
+
 ### Formal syntax
 
 _The formal syntax must be taken from the spec and added to the [MDN data repository](https://github.com/mdn/data). It is an important tool to get precise syntax information for advanced users._
